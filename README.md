@@ -92,7 +92,7 @@ Vous devez obtenir une clé API Google Gemini :
 ### 1. Cloner le Repository
 
 ```bash
-git clone https://github.com/<username>/english-darija-translator.git
+git clone https://github.com/ahmed-elmahdaoui/english-darija-translator.git
 cd english-darija-translator
 ```
 
