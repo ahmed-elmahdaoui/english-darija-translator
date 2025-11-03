@@ -498,7 +498,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 👥 Auteurs
 
-**Votre Nom**
+**Ahmed el mahdaoui**
 - GitHub: https://github.com/ahmed-elmahdaoui
 - Email: ahmed.elmahdawi@usmba.ac.ma
 
